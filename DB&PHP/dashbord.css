@@ -1,0 +1,33 @@
+.sidebar {
+	height: 100%;
+	margin-left: -140px;
+	background: saddlebrown;
+
+}
+.sidebar h1 {
+	padding-left: 30px;
+
+}
+.sidebar ul li {
+	display: block;
+	width: 100%;
+}
+.sidebar ul li a {
+	line-height: 40px;
+	text-align: center;
+	text-decoration: none;
+	color: #9fb1c2;
+	padding-left: 5px;
+	padding-right: 25px;
+}
+.sidebar .active a{
+	background: #27aae1;
+	color: #fff;
+	font-weight: bold;
+	border-radius: 7px;
+}
+.sidebar a:hover{
+	background: green;
+	text-decoration: none;
+	border-radius: 7px;
+}

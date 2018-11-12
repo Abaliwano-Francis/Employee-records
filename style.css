@@ -1,0 +1,149 @@
+body {
+  margin: 0px;
+}
+.menu {
+  width: 100%;
+  height: 50px;
+  background: maroon;
+}
+ul li {
+  list-style-type: none;
+  float: left;
+}
+ul li a {
+  text-decoration: none;
+  padding: 5px;
+  color: azure;
+}
+.logo {
+  /* position: relative; */
+  float: left;
+  margin-top: 4px;
+}
+.nav {
+  float: right;
+}
+ul {
+  margin-right: 70px;
+}
+#jumbotron {
+  width: 100%;
+  height: 400px;
+  background-image: url("images/4.jpg");
+  background-size: 100% 100%;
+  margin-top: -16px;
+}
+#jumbotron p {
+  text-align: center;
+  padding: 30px;
+}
+#jumbotron button {
+  background-color: blue;
+  border: none;
+  height: 35px;
+  margin-left: 45%;
+  color: azure;
+  border-radius: 5px;
+}
+.one {
+  height: 400px;
+  float: left;
+  width: 33%;
+}
+.second {
+  /* background: rgb(28, 0, 128); */
+  height: 400px;
+  width: 66%;
+  float: right;
+}
+.two {
+  float: left;
+  width: 49%;
+  height: 400px;
+}
+.three {
+  float: right;
+  width: 49%;
+  height: 400px;
+}
+.firstdiv {
+  float: left;
+  width: 49.5%;
+}
+.secdiv {
+  float: right;
+  width: 49.5%;
+}
+.onediv {
+  float: left;
+  width: 49%;
+  background: darkgoldenrod;
+}
+.twodiv {
+  float: right;
+  width: 49%;
+  background: darkgoldenrod;
+}
+.threediv {
+  float: left;
+  width: 49%;
+  background: rgb(93, 185, 7);
+}
+.fourdiv {
+  float: right;
+  width: 49%;
+  background: rgb(93, 185, 7);
+}
+.footone {
+  height: 200px;
+  float: left;
+  width: 33%;
+  background: rgb(71, 71, 110);
+  color: azure;
+}
+.footsecond {
+  /* background: rgb(28, 0, 128); */
+  height: 200px;
+  width: 66%;
+  float: right;
+}
+.foottwo {
+  float: left;
+  width: 49%;
+  height: 200px;
+  background: rgb(71, 71, 110);
+  color: azure;
+}
+.footthree {
+  float: right;
+  width: 49%;
+  height: 200px;
+  background: rgb(71, 71, 110);
+  color: azure;
+}
+footer {
+  background: rgb(71, 71, 110);
+  height: 300px;
+  margin-top: 250px;
+}
+footer p {
+  color: azure;
+  text-align: center;
+  height: 100px;
+}
+.system {
+  text-align: center;
+}
+.system a button {
+  background-color: blue;
+  border: none;
+  height: 35px;
+  color: azure;
+  border-radius: 5px;
+}
+.news img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-left: 95px;
+}
